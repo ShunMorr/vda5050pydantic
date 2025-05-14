@@ -19,7 +19,7 @@ from typing import List, Optional
 
 from pydantic import BaseModel, Field
 
-from pydantic_models.common import (
+from vda5050pydantic.pydantic_models.common import (
     Action,
     Corridor,
     NodePosition,

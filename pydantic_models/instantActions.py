@@ -19,7 +19,7 @@ from typing import List
 
 from pydantic import BaseModel, Field
 
-from pydantic_models.common import Action
+from vda5050pydantic.pydantic_models.common import Action
 
 
 class InstantActions(BaseModel):

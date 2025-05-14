@@ -20,7 +20,7 @@ from typing import List, Optional
 
 from pydantic import BaseModel, Field
 
-from pydantic_models.common import Trajectory
+from vda5050pydantic.pydantic_models.common import Trajectory
 
 
 class MapStatus(Enum):
